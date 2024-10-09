@@ -6,8 +6,9 @@ This repository is dedicated to the **SDY60-2024: Design and Implementation of H
 
 Our team of collaborators:
 
-### 1. **Παγιάτης Σπύρος**
-- **CV:** [GitHub page with CV](https://github.com/Pagiatis-Spiros)
+### 1. **Pagiatis Spiros**
+- [GitHub CV](https://github.com/Pagiatis-Spiros)
+- [GitHub page hosting CV](https://github.com/Pagiatis-Spiros.github.io)
   
 ### 2. **Member Name 2**
 - **CV:** [Link to CV](#)

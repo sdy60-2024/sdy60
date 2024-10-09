@@ -8,7 +8,7 @@ Our team of collaborators:
 
 ### 1. **Pagiatis Spiros**
 - [GitHub CV](https://github.com/Pagiatis-Spiros)
-- [GitHub page hosting CV](https://github.com/Pagiatis-Spiros.github.io)
+- [GitHub page hosting CV](https://Pagiatis-Spiros.github.io)
   
 ### 2. **Member Name 2**
 - **CV:** [Link to CV](#)

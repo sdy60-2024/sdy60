@@ -11,7 +11,7 @@ Our team of collaborators:
 - [GitHub page hosting CV](https://Pagiatis-Spiros.github.io)
   
 ### 2. **Ntaoutis Evaggelos**
-- **CV:** [Link to CV](https://vagnta.github.io/Biografiko/)](#)
+- **CV:** [Link to CV](https://vagnta.github.io/Biografiko/)
   
 ### 3. **Member Name 3**
 - **CV:** [Link to CV](#)

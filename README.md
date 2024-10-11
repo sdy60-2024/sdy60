@@ -10,7 +10,7 @@ Our team of collaborators:
 - [GitHub CV](https://github.com/Pagiatis-Spiros)
 - [GitHub page hosting CV](https://Pagiatis-Spiros.github.io)
   
-### 2. **Member Name 2**
+### 2. **Ntaoutis Evaggelos**
 - **CV:** [Link to CV](#)
   
 ### 3. **Member Name 3**

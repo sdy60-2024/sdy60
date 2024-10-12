@@ -13,8 +13,23 @@ Our team of collaborators:
 ### 2. **Ntaoutis Evaggelos**
 - **CV:** [Link to CV](https://vagnta.github.io/Biografiko/)
 
-
 ### 3. **PAPADOPOULOS ANDREAS**
 - **CV:** [Link to CV](https://github.com/PapadoAndreas/PapadopoulosAndreas.github.io/blob/main/README.md)
 
-++++
+### 4. **Giannakakou Marina**
+- **CV:** [Link to CV](https://github.com/Marigian/marigian.github.io)
+
+### 5. **Team Member**
+- **CV:** [Link to CV](https://putLinkHere)
+
+### 6. **Team Member**
+- **CV:** [Link to CV](https://putLinkHere)
+
+### 7. **Team Member**
+- **CV:** [Link to CV](https://putLinkHere)
+
+### 8. **Team Member**
+- **CV:** [Link to CV](https://putLinkHere)
+
+### 9. **Team Member**
+- **CV:** [Link to CV](https://putLinkHere)

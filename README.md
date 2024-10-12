@@ -20,7 +20,7 @@ Our team of collaborators:
 - **CV:** [Link to CV](https://github.com/Marigian/marigian.github.io)
 
 ### 5. **Kokkalis Vasileios**
-- **CV:** [Link to CV] (https://github.com/VasilisKokkalis/Vasilis-Kokkalis-CV/blob/main/README.md)
+- **CV:** [Link to CV] https://github.com/VasilisKokkalis/VasilisKokkalis-CV.github.io
 
 ### 6. **Team Member**
 - **CV:** [Link to CV](https://putLinkHere)

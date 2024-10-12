@@ -14,7 +14,7 @@ Our team of collaborators:
 - **CV:** [Link to CV](https://vagnta.github.io/Biografiko/)
 
 
-### 3. **Member Name 3**
-- **CV:** [Link to CV](#)
+### 3. **PAPADOPOULOS ANDREAS**
+- **CV:** [Link to CV](https://github.com/PapadoAndreas/PapadopoulosAndreas.github.io/blob/main/README.md)
 
 ++++

@@ -36,3 +36,6 @@ Our team of collaborators:
 
 ### 10. **Apostolidis Apostolos**
 - **CV:** [Link to CV](https://github.com/apapost/biography)
+
+### 11. **Manousos Valirakis**
+- **CV:** [Link to CV](https://github.com/ManousosV/cv-ManousosV/blob/main/README.md)

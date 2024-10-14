@@ -31,8 +31,8 @@ Our team of collaborators:
 ### 8. **Team Member**
 - **CV:** [Link to CV](https://putLinkHere)
 
-### 9. **Team Member**
-- **CV:** [Link to CV](https://putLinkHere)
+### 9. **Zagoras Odysseas**
+- **CV:** [Link to CV](https://ozagoras.github.io/odysseas_zagoras_cv)
 
 ### 10. **Apostolidis Apostolos**
 - **CV:** [Link to CV](https://github.com/apapost/biography)

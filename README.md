@@ -41,5 +41,5 @@ Our team of collaborators:
 - **CV:** [Link to CV](https://github.com/ManousosV/cv-ManousosV/blob/main/README.md)
 
 ### 12. **Panagiotopoulos Tasos**
-- **CV:** [Link to CV](https://tpanagioto.github.io/readme.md)
+- **CV:** [Link to CV](https://tpanagioto.github.io/tpanagito/readme.md)
 

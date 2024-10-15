@@ -42,5 +42,5 @@ Our team of collaborators:
 
 ### 12. **Panagiotopoulos Tasos**
 - **CV:** [Link to CV](https://github.com/tpanagioto/hello-world/blob/main/README.md)
-- **CV:** [Link to CV](https://tpanagioto.github.io)
+- **CV:** [Link to CV](https://tpanagioto.github.io/tpanagioto-bio.md)
 

@@ -39,3 +39,7 @@ Our team of collaborators:
 
 ### 11. **Manousos Valirakis**
 - **CV:** [Link to CV](https://github.com/ManousosV/cv-ManousosV/blob/main/README.md)
+
+### 12. **Panagiotopoulos Tasos**
+- **CV:** [Link to CV](https://tpanagioto.github.io)
+

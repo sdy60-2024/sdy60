@@ -22,8 +22,8 @@ Our team of collaborators:
 ### 5. **Kokkalis Vasileios**
 - **CV:** [Link to CV](https://github.com/VasilisKokkalis/VasilisKokkalis-CV.github.io/blob/main/README.md)
 
-### 6. **Team Member**
-- **CV:** [Link to CV](https://putLinkHere)
+### 6. **Xydakis Michail**
+- **CV:** [Link to CV](https://mxidakis.github.io)
 
 ### 7. **Team Member**
 - **CV:** [Link to CV](https://putLinkHere)

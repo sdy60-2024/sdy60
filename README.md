@@ -43,3 +43,7 @@ Our team of collaborators:
 ### 12. **Panagiotopoulos Tasos**
 - **CV:** [Link to CV](https://tpanagioto.github.io)
 
+### 13. **Vasileios Kovas**
+- **CV:** [Link to CV](https://vasilis-kovas.github.io/VasileiosKovas-CV/)
+
+

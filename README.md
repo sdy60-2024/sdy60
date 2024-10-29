@@ -25,8 +25,8 @@ Our team of collaborators:
 ### 6. **Xydakis Michail**
 - **CV:** [Link to CV](https://mxidakis.github.io)
 
-### 7. **Team Member**
-- **CV:** [Link to CV](https://putLinkHere)
+### 7. **Zarkadoulas Konstantinos**
+- **CV:** [Link to CV](https://https://konstantinoszarkadoulas.github.io/cvzarkadoulas/)
 
 ### 8. **Team Member**
 - **CV:** [Link to CV](https://putLinkHere)

@@ -26,7 +26,7 @@ Our team of collaborators:
 - **CV:** [Link to CV](https://mxidakis.github.io)
 
 ### 7. **Zarkadoulas Konstantinos**
-- **CV:** [Link to CV](https://https://konstantinoszarkadoulas.github.io/cvzarkadoulas/)
+- **CV:** [Link to CV](https://https://konstantinoszarkadoulas.github.io/cvzarkadoulas)
 
 ### 8. **Team Member**
 - **CV:** [Link to CV](https://putLinkHere)

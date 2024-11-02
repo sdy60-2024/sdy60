@@ -29,7 +29,7 @@ Our team of collaborators:
 - **CV:** [Link to CV](https://konstantinoszarkadoulas.github.io/cvzarkadoulas/)
 
 ### 8. **Spathari Anna**
-- **CV:** [Link to CV](https://putLinkHere)
+- **CV:** [Link to CV](https://github.com/SPATHARIANNA))
 
 ### 9. **Zagoras Odysseas**
 - **CV:** [Link to CV](https://ozagoras.github.io/odysseas_zagoras_cv)

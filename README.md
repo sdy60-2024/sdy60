@@ -28,7 +28,7 @@ Our team of collaborators:
 ### 7. **Zarkadoulas Konstantinos**
 - **CV:** [Link to CV](https://konstantinoszarkadoulas.github.io/cvzarkadoulas/)
 
-### 8. **Team Member**
+### 8. **Spathari Anna**
 - **CV:** [Link to CV](https://putLinkHere)
 
 ### 9. **Zagoras Odysseas**
